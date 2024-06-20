@@ -2,7 +2,7 @@
 
 maqc wpmv ypbk hytb
 PORT limit = 0 - 6553
-ip=192.168.56.1
+ip=
 
 # PORT limit = 0 - 65535
 # ip=192.168.56.1
